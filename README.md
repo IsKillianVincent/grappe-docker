@@ -52,4 +52,4 @@ Ce projet m'a permis de découvrir la puissance de Docker et de comprendre à qu
 L'utilisation de Docker Compose pour orchestrer les différents services a grandement simplifié la mise en place et m'a permis de tester rapidement l'application dans un environnement contrôlé. 
 Bien que ce projet soit relativement simple, il ouvre la voie à l'exploration de nouvelles technologies et de différentes stacks, et je suis impatient de pouvoir étendre et tester ce projet avec de nouveaux outils à l'avenir.
 
-© KillianVINCENT ©
+[© KillianVINCENT ©](https://github.com/IsKillianVincent/grappe-docker "Fait le 08/01/2025 à 15h30")
