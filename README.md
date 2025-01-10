@@ -1,5 +1,14 @@
 # TP Docker - Dockerisation d'un projet 3 tiers
 
+## Sommaire
+
+- [Objectif du TP](#objectif-du-tp)
+  - [Consignes](#consignes)
+  - [Date limite de rendu](#date-limite-de-rendu)
+- [Structure du projet](#structure-du-projet)
+- [Installation et Lancement](#installation-et-lancement)
+- [Conclusion](#conclusion)
+
 ## Objectif du TP
 
 Le but de ce projet est de dockeriser un projet existant utilisant une architecture 3 tiers (Base de données, API backend, Frontend). L’objectif est de rendre l’application facilement déployable à l’aide de Docker, en testant un environnement de développement et de production simple et rapide à mettre en place.
@@ -52,4 +61,4 @@ Ce projet m'a permis de découvrir la puissance de Docker et de comprendre à qu
 L'utilisation de Docker Compose pour orchestrer les différents services a grandement simplifié la mise en place et m'a permis de tester rapidement l'application dans un environnement contrôlé. 
 Bien que ce projet soit relativement simple, il ouvre la voie à l'exploration de nouvelles technologies et de différentes stacks, et je suis impatient de pouvoir étendre et tester ce projet avec de nouveaux outils à l'avenir.
 
-[© KillianVINCENT ©](https://github.com/IsKillianVincent/grappe-docker "Fait le 08/01/2025 à 15h30")
+[© KillianVINCENT ©](https://github.com/IsKillianVincent/grappe-docker "Fait le 09/01/2025 à 15h30")
